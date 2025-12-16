@@ -1,0 +1,2 @@
+export ELECTRON_FORGE_DISABLE_AUTO_REBUILD=true
+npx electron-forge start

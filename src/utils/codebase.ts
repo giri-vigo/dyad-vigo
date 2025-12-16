@@ -47,6 +47,7 @@ const ALLOWED_EXTENSIONS = [
   ".py",
   // https://github.com/dyad-sh/dyad/issues/1221
   ".php",
+  ".dart",
 ];
 
 // Directories to always exclude
